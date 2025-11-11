@@ -1,11 +1,12 @@
 # Maze Adventure Game
 
-A 2D maze game developed in Python using **Pyxel**. The maze is **randomly generated** for each new game, providing a unique experience every time.
+A 2D maze game developed in Python using **[Pyxel](https://github.com/kitao/pyxel?tab=readme-ov-file)**. The maze is **randomly generated** for each new game, providing a unique experience every time.
 
 ## Gameplay
 
 - The player is represented by a **small orange square**.
 - The maze is **mostly dark**, so the player can only see a limited area around them.
+- The player can **place a torch once** using the **Space key**, which permanently lights up part of the maze.
 - The maze contains **enemies**. If the player touches an enemy, they die and must restart the level.
 
 ## Levels
@@ -25,9 +26,14 @@ The game has **three increasing levels of difficulty**, each introducing new typ
    - All enemies from previous levels.  
    - Enemy 4: **Spawns directly on the player**, increasing the challenge.
 
+## Bonus Features
+
+- After completing the game, a **bonus ending** is displayed as a **shooting sequence**, including credits and the names of the authors.
+
 ## Controls
 
 - **Arrow keys**: Move the player  
+- **Space**: Place a permanent torch to light up the maze  
 - **Q**: Quit the game  
 
 ## How to Run
@@ -36,4 +42,3 @@ The game has **three increasing levels of difficulty**, each introducing new typ
 ```bash
 git clone https://github.com/your-username/my-pyxel-game.git
 cd my-pyxel-game
-
