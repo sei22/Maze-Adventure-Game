@@ -1,6 +1,6 @@
 # Maze Adventure Game
 
-A 2D maze game developed in Python using **[Pyxel](https://github.com/kitao/pyxel?tab=readme-ov-file)**. The maze is **randomly generated** for each new game, providing a unique experience every time. \\
+A 2D maze game developed in Python using **[Pyxel](https://github.com/kitao/pyxel?tab=readme-ov-file)**. The maze is **randomly generated** for each new game, providing a unique experience every time. 
 Click here to play the game : https://sei22.github.io/my-pyxel-game/my-pyxel-game.html
 
 ## Gameplay
