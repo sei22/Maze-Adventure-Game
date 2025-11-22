@@ -26,6 +26,10 @@ The game has **three increasing levels of difficulty**, each introducing new typ
 3. **Level 3**  
    - All enemies from previous levels.  
    - Enemy 4: **Spawns directly on the player**, increasing the challenge.
+  
+## Project Background
+
+- This project was developed in 2021 during my final year of high school, as a team of four.
 
 ## Bonus Features
 
